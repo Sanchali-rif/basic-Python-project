@@ -107,14 +107,6 @@ project_3/
 - 📈 Confidence score visualization
 - 🌍 Support for multiple pre-trained models
 
-## Author
-
-**Sanchali-rif** (sanchalisaha05@gmail.com)
-
-## License
-
-MIT License
-
 ---
 
 **Part of the AI Agent Workspace** - A monorepo of AI/ML projects built with Python, LangChain, and modern AI frameworks.

@@ -177,13 +177,6 @@ The application uses `python-dotenv` to load the API key at runtime.
 - Temperature set to 0.7 for balanced creativity and consistency
 - Each analysis makes one API call to Google Gemini
 
-## Author
-
-**Sanchali-rif** (sanchalisaha05@gmail.com)
-
-## License
-
-MIT License
 
 ---
 
