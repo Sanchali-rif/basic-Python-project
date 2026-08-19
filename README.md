@@ -98,10 +98,3 @@ Each project follows standard Python packaging conventions with:
 - **Project 2:** `streamlit run ...` (after installation)
 - **Project 3:** TBD
 
-## Author
-
-Sanchali-rif (sanchalisaha05@gmail.com)
-
-## License
-
-(Add your license here if applicable)
